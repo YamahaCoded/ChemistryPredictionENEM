@@ -14,8 +14,9 @@ Análise de um pequeno conjunto de dados referentes as questões de química da 
 - Técnicas de Laboratório
 - Legislação Profissional em Química
 - Energias Químicas no Cotidiano
-- Teorias e Práticas para o Ensino de Química  
+- Teorias e Práticas para o Ensino de Química
 
-  
+---
+
 Para executar, certifique-se de ter python 3.12 ou superior e instalar as bibliotecas necessárias através do comando:  
 ```pip install -r requirements.txt```
