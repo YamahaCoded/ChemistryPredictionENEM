@@ -16,4 +16,5 @@ Análise de um pequeno conjunto de dados referentes as questões de química da 
 - Energias Químicas no Cotidiano
 - Teorias e Práticas para o Ensino de Química  
 
-*Para executar, certifique-se de ter python 3.12 ou superior e instalar as bibliotecas necessárias com ```pip install -r requirements.txt```
+*Para executar, certifique-se de ter python 3.12 ou superior e instalar as bibliotecas necessárias através do comando:
+```pip install -r requirements.txt```
