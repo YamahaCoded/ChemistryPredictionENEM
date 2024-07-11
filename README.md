@@ -1,4 +1,4 @@
-# Previsão de Conteúdos das Questões de Química do ENEM
+# Previsão Química no ENEM
 Análise fazendo uso de regressão linear de um pequeno conjunto de dados referentes as questões de química da prova do ENEM nos últimos 4 anos na tentativa de prever um valor aproximado da quantidade de questões referentes a conteúdos específicos.  
 
 ## Para facilitar a visualização os conteúdos estão abreviados, respectivamente as abreviações se referem a:  
