@@ -1,5 +1,5 @@
 # Previsão Química no ENEM
-Análise fazendo uso de regressão linear com o objetivo de prever um valor aproximado da quantidade de questões referentes a específicos conteúdos através de um pequeno conjunto de dados referentes as questões de química do ENEM nos últimos 4 anos.  
+Análise fazendo uso de regressão linear com o objetivo de prever um valor aproximado da quantidade de questões referentes a específicos conteúdos através de um pequeno conjunto de dados de questões de química das edições do ENEM dos últimos 4 anos.  
 
 ## Para facilitar a visualização os conteúdos estão abreviados, respectivamente as abreviações se referem a:  
 - Transformações Químicas
