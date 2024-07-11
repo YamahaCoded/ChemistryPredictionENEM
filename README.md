@@ -17,5 +17,4 @@ Análise de um pequeno conjunto de dados referentes as questões de química da 
 - Teorias e Práticas para o Ensino de Química
 
 
-_Para executar, certifique-se de ter python 3.12 ou superior e instalar as bibliotecas necessárias através do comando:_  
-```pip install -r requirements.txt```
+_Para executar, certifique-se de ter python 3.12 ou superior e instalar as bibliotecas necessárias instaladas_  
